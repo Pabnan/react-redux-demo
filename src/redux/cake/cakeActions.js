@@ -5,4 +5,3 @@ import { BUY_CAKE } from './cakeTypes';
         type: BUY_CAKE
     }
 }
-//export default buyCake;
